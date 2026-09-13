@@ -56,25 +56,6 @@
 	<img src="https://github.com/Manasa-D123/Manasa-D123/blob/main/assets/eclipse.svg" alt="eclipse" width="40" height="40" />&nbsp;
 	<img src="https://github.com/Manasa-D123/Manasa-D123/blob/main/assets/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp;</p>
 
-<h3 align="left">📊 My GitHub Stats</h3>
-<table>
-  <tr>
-    <td>
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=Manasa-D123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-	  <img width="385" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasa-D123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-    </td>
-  </tr>
-</table>
-
-<!-- LeetCode Stats -->
- <div align="center">
-    <a href="https://leetcode.com/cheehwatang#gh-dark-mode-only">
-        <img src="https://leetcard.jacoblin.cool/manasa_d_2k24?=1&radius=20&theme=dark&font=Barlow%20" alt="Leetcode Stats">
-    </a>
-</div>
-
 <p align="center">
   <em>Crafting interfaces with clarity, weaving logic with intelligence, and sculpting databases with precision."</em>
 </p>
